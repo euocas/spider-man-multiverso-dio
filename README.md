@@ -38,7 +38,7 @@ A interface foi desenvolvida considerando diferentes tamanhos de tela, buscando 
 Projeto realizado como parte de uma formação em **Front-End pela DIO**, com foco na prática de desenvolvimento de interfaces e construção de experiências web.
 
 ---
-<img width="1920" height="4197" alt="spiderman2" src="https://github.com/user-attachments/assets/282482ab-404e-4bd8-ad69-5b2fd34b32c4" />
+<img width="1920" height="4197" alt="spiderman2" src="https://github.com/user-attachments/assets/2fc549b9-d68c-4407-9d89-1845c2b6fd0d" />
 
 
 Projeto desenvolvido para estudos e portfólio.
